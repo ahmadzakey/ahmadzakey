@@ -1,6 +1,5 @@
-👋 Hi, I’m @ahmadzakey
-👀 I’m interested in Data Analytics and I'm eager to dive deeper into this field
-🌱 I’m currently learning Python, Power BI, and Machine Learning
-💞️ I’m looking to collaborate on Data Analytics projects
-📫 How to reach me: ahmadzaki@email.com
-⚡ Fun fact: I enjoy exploring the world of data and always keen to learn new techniques for analysis!
+Hi, I’m @ahmadzakey.
+I am focused on Data Analytics and currently deepening my knowledge in Python, Power BI, and Machine Learning.
+I’m open to collaborating on Data Analytics projects.
+Feel free to reach out at: ahmadzaki@email.com.
+I am always exploring new data analysis techniques and approaches.
