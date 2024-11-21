@@ -18,6 +18,9 @@ Recently, I have worked on projects involving **regression** and **classificatio
 ## 💡 **Recent Projects**  
 - **Customer Segmentation Analysis**: Grouping customers based on demographics and spending behavior using Python and data visualization.  
 - **Predictive Analytics**: Developing regression models to predict future outcomes based on historical data.  
+- **Breast Cancer Classification**:  
+  - Applied **classification models** like **KNN**, **Decision Tree**, **Random Forest**, and **Logistic Regression** to predict tumor malignancy.  
+  - Evaluated models using metrics like **Confusion Matrix** and compared performance.
 
 ---
 
