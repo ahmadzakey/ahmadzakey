@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Ahmad Zaki (@ahmadzakey)
-
 ## 🚀 **About Me**  
 I am an aspiring **Data Analyst** passionate about solving problems and uncovering insights from data. My current focus includes:  
 - Enhancing my skills in **Python** and **Machine Learning**.  
