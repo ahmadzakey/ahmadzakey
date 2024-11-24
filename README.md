@@ -1,27 +1,39 @@
-## 🚀 **About Me**  
-I am an aspiring **Data Analyst** passionate about solving problems and uncovering insights from data. My current focus includes:  
-- Enhancing my skills in **Python** and **Machine Learning**.  
-- Exploring advanced concepts in **Data Analytics**.  
+# 🙋🏻‍♂️ **Introducing Myself**  
 
-Recently, I have worked on projects involving **regression** and **classification models**, improving my understanding of predictive analytics and data-driven decision-making.  
+Hello, I'm Ahmad Zaki. An aspiring **Data Scientist** currently honing my skills in **Machine Learning**, **Data Analysis**, and **Data Visualization**.  
+
+---
+
+## 🚀 **About Me**  
+I am passionate about uncovering insights from data and solving complex problems. My current focus includes:  
+- Building and training **Machine Learning models** using Python.  
+- Querying and managing data using **SQLite**.  
+- Creating **data visualizations** to analyze trends and insights using **Matplotlib** and **Seaborn**.  
 
 ---
 
 ## 🎯 **What I’m Learning**  
-- **Machine Learning**: Building predictive models and algorithms.  
-- **Statistics**: Strengthening my foundation in data analysis concepts.  
+- **Machine Learning**: Developing predictive models and classification algorithms.  
+- **Statistics**: Enhancing my understanding of descriptive and inferential statistics.  
+- **Data Visualization**: Crafting insightful plots using Seaborn and Matplotlib.  
+- **SQL with SQLite**: Learning to extract, clean, and manipulate data efficiently.  
 
 ---
 
-## 💡 **Recent Projects**  
-- **Customer Segmentation Analysis**: Grouping customers based on demographics and spending behavior using Python and data visualization.  
-- **Predictive Analytics**: Developing regression models to predict future outcomes based on historical data.  
-- **Breast Cancer Classification**:  
-  - Applied **classification models** like **KNN**, **Decision Tree**, **Random Forest**, and **Logistic Regression** to predict tumor malignancy.  
-  - Evaluated models using metrics like **Confusion Matrix** and compared performance.
+## 📚 **Projects**  
+Welcome to my portfolio, where I showcase my learning progress and hands-on projects:  
+👉 [View My Full Project List](projects.md)  
 
 ---
 
-## 🤝 **Let’s Connect!**  
+## 🛠️ **Tools**  
+- **Language**: Python, SQL (using SQLite)  
+- **Machine Learning**: Scikit-learn  
+- **Database**: SQLite  
+- **Visualization**: Matplotlib, Seaborn  
+
+---
+
+## 👋🏻 **Let’s Connect!**  
 📧 **Email**: [zakey53319@email.com](mailto:zakey53319@email.com)  
 🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)  
