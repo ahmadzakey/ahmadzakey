@@ -34,36 +34,3 @@ https://shorturl.at/Swpep
 
 
 
-
-
-
-# 🙋🏻‍♂️ **Introducing Myself**
-
-Hello, I'm Ahmad Zaki. An aspiring **Data Scientist** passionate about extracting insights and solving problems using data.  
-
----
-
-## 🚀 **What I’m Focusing On**
-- Building **Machine Learning models** with Python.  
-- Querying and managing data using **SQLite**.  
-- Visualizing data trends using **Matplotlib** and **Seaborn**.  
-- Performing statistical analysis with **SciPy**.  
-- Enhancing workflows with **Pandas** and **NumPy**.  
-
----
-
-## 📚 **Projects**  
-Welcome to my portfolio, where I showcase my learning progress and hands-on projects: 
-👉 https://github.com/ahmadzakey/projects-README.md/blob/main/README.md
----
-
-## 🛠️ **Tools**  
-- **Programming**: Python, SQL (SQLite)  
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy  
-- **Interface**: Jupyter Notebook  
-
----
-
-## 👋🏻 **Connect with Me**  
-📧 **Email**: [zakey53319@email.com](mailto:zakey53319@email.com)  
-🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)  
