@@ -14,7 +14,7 @@ Hello, I'm Ahmad Zaki. An aspiring **Data Scientist** passionate about extractin
 
 ## 📚 **Projects**  
 Welcome to my portfolio, where I showcase my learning progress and hands-on projects: 
-👉 [View My Full Project List](projects.md)
+👉 https://github.com/ahmadzakey/projects-README.md
 
 ---
 
