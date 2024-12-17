@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ **Introducing Myself**
 
-Hello, I'm Ahmad Zaki. An aspiring **Data Scientist** passionate about extracting insights and solving problems using data.  
+An aspiring **Data Scientist** passionate about extracting insights and solving problems using data.  
 
 ---
 
