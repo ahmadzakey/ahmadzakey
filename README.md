@@ -31,4 +31,4 @@ Explore my portfolio to view my progress and hands-on experience with various da
 - **Email**: [zakey53319@email.com](mailto:zakey53319@email.com)
 - **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)
 - **Kaggle**: [ahmadzakibinramli](https://www.kaggle.com/ahmadzakibinramli)
-- **Fiverr - Freelance Account**: [ahmadzakibinramli]([https://www.kaggle.com/ahmadzakibinramli](https://www.fiverr.com/s/Ldlz2Vo)
+- **Fiverr - Freelance Account**: [ahmadzakibinramli]([https://www.kaggle.com/ahmadzakibinramli](https://www.fiverr.com/s/Ldlz2Vo))
